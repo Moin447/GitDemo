@@ -36,6 +36,8 @@ public class L123_Seleniumnewfeatures {
 		
 		System.out.println(driver.findElement(with(By.tagName("label")).toRightOf(label)).getText());
 		
+		System.out.println("Hello");
+		
 	}
 
 }
